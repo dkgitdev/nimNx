@@ -42,7 +42,7 @@ in original libNx C code and see how it got translated to nim.
 
 ### Why `type`s + `const` for C `enums` (like under `src/nimNx/libnx/hid`)?
 
-[https://forum.nim-lang.org/t/5768](Nim forum)
+[Nim forum](https://forum.nim-lang.org/t/5768)
 
 ### Why specify `discardable` pragma in `importc` `proc`s?
 
